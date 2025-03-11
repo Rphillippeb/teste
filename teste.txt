@@ -3,3 +3,8 @@ segundo commit
 terceiro commit
 quarto commit
 quinta commit
+sexta commit
+setima commit
+oitavo commit
+nono commit
+decima commit
